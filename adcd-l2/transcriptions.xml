@@ -4,8 +4,8 @@
   <manifestation>
     <!--- the 1871 edition is currently the manifestation exemplar for this translation; the translation is printed many times into the 21st century 
     for example the Modern Library edition of 1993 -->
-    <name>Edinburgh 1871</name>
-    <title>English</title>
+    <name>cod-dodedi</name>
+    <title>Edinburgh 1871</title>
     <language>en</language>
     <transcriptions>
       <transcription transcriptionDefault="true">
