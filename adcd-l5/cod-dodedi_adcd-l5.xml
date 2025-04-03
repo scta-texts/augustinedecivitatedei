@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Liber 5</title>
+        <title>Book 5</title>
         <author ref="#Augustine">Augustine</author>
         <respStmt>
           <name xml:id="JW">Jeffrey C. Witt</name>
@@ -11,7 +11,7 @@
       </titleStmt>
       <editionStmt>
         <edition n="0.0.0-dev">
-          <title>Liber 5</title>
+          <title>Book 5</title>
           <date when="2025-03-13">March 13, 2025</date>
         </edition>
       </editionStmt>
@@ -26,7 +26,7 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness/>
+           <witness xml:id="E" n="cod-dodedi">Edinburgh 1871</witness> 
         </listWit>
       </sourceDesc>
     </fileDesc>
